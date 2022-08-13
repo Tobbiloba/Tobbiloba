@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front Web Development
 - 🌱 I’m currently learning Java Script, Css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me salauoluwatobiloba0@gmail.com
+- 📫 How to reach me tobilobaabayomi0@gmail.com
 
 <!---
 Tobbiloba/Tobbiloba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
