@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tobilobaabayom2" target="blank"><img src="https://img.shields.io/twitter/follow/tobilobaabayom2?logo=twitter&style=for-the-badge" alt="tobilobaabayom2" /></a> </p>
 
-- 🔭 I’m currently working on **an E-commerce application**
+- 🔭 I’m currently building on **React Native skill**
 
 - 🤝 I’m looking for help with **andriod development**
 
