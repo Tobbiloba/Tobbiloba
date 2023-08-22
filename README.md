@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently building on **React Native skill**
 
-- 🤝 I’m looking for help with **andriod development**
+- 🤝 I’m currently looking for a frontend job **ReactJs/React native**
 
 - 💬 Ask me about **react, javascript**
 
-- 📫 How to reach me **abayomitobiloba410@gmail.com**
+- 📫 How to reach me **tobiloba.a.salau@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
