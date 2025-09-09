@@ -2,9 +2,6 @@
 
 **Full-Stack Software Developer** | **AI/LLM Engineer** | **Startup Enthusiast** | **Open Source Contributor**
 
-
-![MasterHead](https://cdn.dribbble.com/userupload/21085200/file/original-4c8d99dbd55bcf47af4bcc1e9cc6599f.png?resize=752x564&vertical=center)
-
 ## 👨‍💻 About Me
 
 Passionate and results-driven software developer with **2+ years** of experience building scalable, efficient, and user-centric applications. Final year Computer Science student with expertise in modern frontend frameworks, full-stack development, and AI-powered solutions. Currently building innovative platforms that leverage LLM technology to solve real-world problems in the data space.
