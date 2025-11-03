@@ -10,7 +10,7 @@ Passionate and results-driven software developer with **2+ years** of experience
 const developer = {
   name: "Salau Tobiloba Abayomi",
   location: "Lagos, Nigeria",
-  experience: "2+ years",
+  experience: "3+ years",
   education: "Final Year Computer Science Student",
   focus: ["Frontend Development", "Full-Stack Solutions", "AI/LLM Integration", "Mobile Applications"],
   currentlyBuilding: ["Eynsight - AI platform for data professionals", "Netlr", "Revi"],
